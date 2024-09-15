@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "jobName": "Software Engineer",
+      "jobVacancy": 120,
+      "image": "https://w7.pngwing.com/pngs/677/439/png-transparent-silhouette-illustration-of-man-web-development-php-software-developer-programmer-web-design-computer-user-icon-svg-miscellaneous-computer-programming-mobile-app-development-thumbnail.png"
+    },
+    {
+      "id": 2,
+      "jobName": "Data Scientist",
+      "jobVacancy": 85,
+      "image": "https://thumbs.dreamstime.com/b/data-science-logo-icon-design-vector-100675205.jpg"
+    },
+    {
+      "id": 3,
+      "jobName": "Graphic Designer",
+      "jobVacancy": 45,
+      "image": "https://content.wepik.com/statics/26127877/preview-page0.jpg"
+    },
+    {
+      "id": 4,
+      "jobName": "Product Manager",
+      "jobVacancy": 30,
+      "image": "https://cdn4.vectorstock.com/i/1000x1000/16/53/product-manager-red-gradient-concept-icon-vector-32171653.jpg"
+    },
+    {
+      "id": 5,
+      "jobName": "Cybersecurity Analyst",
+      "jobVacancy": 60,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3AMU-8mCWfrqYWi2-V_NooLbnvWSavIwtUQ&s"
+    },
+    {
+      "id": 6,
+      "jobName": "Marketing Specialist",
+      "jobVacancy": 50,
+      "image": "https://c8.alamy.com/comp/HGAY3X/marketing-manager-with-megaphone-icon-HGAY3X.jpg"
+    },
+    {
+      "id": 7,
+      "jobName": "HR Manager",
+      "jobVacancy": 20,
+      "image": "https://t4.ftcdn.net/jpg/04/80/07/65/360_F_480076596_9kBMBjheEMPoR422SJp0olzqMHuthBtu.jpg"
+    },
+    {
+      "id": 8,
+      "jobName": "Cloud Architect",
+      "jobVacancy": 40,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0GUxSsahknkUmjcrl_mOTVKrqmobHmJ9xA&s"
+    },
+    {
+      "id": 9,
+      "jobName": "Financial Analyst",
+      "jobVacancy": 55,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xKm7uIKXXGsCQ7QwDJO5JmaFNN4M07EPfw&s"
+    },
+    {
+      "id": 10,
+      "jobName": "Sales Executive",
+      "jobVacancy": 75,
+      "image": "https://png.pngtree.com/element_our/20200610/ourmid/pngtree--image_2241225.jpg"
+    }
+  ]
+  
