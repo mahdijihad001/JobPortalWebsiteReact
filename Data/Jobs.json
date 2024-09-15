@@ -1,0 +1,383 @@
+[
+    {
+      "id": 1,
+      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "job_title": "Technical Database Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "100k-150k",
+      "job_description": "Responsible for managing and optimizing databases, ensuring data security, and improving performance.",
+      "job_responsibility": "Collaborate with teams to maintain and troubleshoot databases, ensuring data accessibility and security.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3-4 years in database management.",
+      "contact_information": {
+        "phone": "01750-00 00 01",
+        "email": "contact1@gmail.com",
+        "address": "Dhanmondi 32, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 2,
+      "logo": "https://images.ctfassets.net/y2ske730sjqp/6bhPChRFLRxc17sR8jgKbe/6fa1c6e6f37acdc97ff635cf16ba6fb3/Logos-Readability-Netflix-logo.png",
+      "job_title": "Software Engineer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Onsite",
+      "location": "Chittagong, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "120k-180k",
+      "job_description": "Develop, test, and deploy scalable software solutions for various business needs.",
+      "job_responsibility": "Design, implement, and maintain efficient code for software systems.",
+      "educational_requirements": "Bachelor's degree in Software Engineering or a related field.",
+      "experiences": "2-3 years in software development.",
+      "contact_information": {
+        "phone": "01750-00 00 02",
+        "email": "contact2@gmail.com",
+        "address": "Karnaphuli, Chittagong, Bangladesh"
+      }
+    },
+    {
+      "id": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tesla_logo.png/1200px-Tesla_logo.png",
+      "job_title": "Data Analyst",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Remote",
+      "location": "Sylhet, Bangladesh",
+      "job_type": "Part-Time",
+      "salary": "80k-100k",
+      "job_description": "Analyze large data sets to provide business insights and drive data-based decisions.",
+      "job_responsibility": "Interpret data trends, develop reports, and offer strategic solutions.",
+      "educational_requirements": "Bachelor's degree in Data Science or a related field.",
+      "experiences": "1-2 years in data analysis.",
+      "contact_information": {
+        "phone": "01750-00 00 03",
+        "email": "contact3@gmail.com",
+        "address": "Zindabazar, Sylhet, Bangladesh"
+      }
+    },
+    {
+      "id": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png",
+      "job_title": "Network Administrator",
+      "company_name": "Microsoft",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "90k-140k",
+      "job_description": "Manage and maintain company network infrastructure, ensuring network security and efficiency.",
+      "job_responsibility": "Monitor network performance, implement security protocols, and troubleshoot network issues.",
+      "educational_requirements": "Bachelor's degree in Network Engineering or a related field.",
+      "experiences": "2-3 years in network administration.",
+      "contact_information": {
+        "phone": "01750-00 00 04",
+        "email": "contact4@gmail.com",
+        "address": "Mirpur, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 5,
+      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "job_title": "Cloud Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "Rajshahi, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "110k-160k",
+      "job_description": "Design, implement, and maintain cloud-based infrastructure and services.",
+      "job_responsibility": "Build scalable cloud solutions and ensure the smooth operation of cloud environments.",
+      "educational_requirements": "Bachelor's degree in Cloud Computing or a related field.",
+      "experiences": "2-3 years in cloud engineering.",
+      "contact_information": {
+        "phone": "01750-00 00 05",
+        "email": "contact5@gmail.com",
+        "address": "Laxmipur, Rajshahi, Bangladesh"
+      }
+    },
+    {
+      "id": 6,
+      "logo": "https://images.ctfassets.net/y2ske730sjqp/6bhPChRFLRxc17sR8jgKbe/6fa1c6e6f37acdc97ff635cf16ba6fb3/Logos-Readability-Netflix-logo.png",
+      "job_title": "DevOps Engineer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Onsite",
+      "location": "Khulna, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "120k-170k",
+      "job_description": "Automate software development processes and integrate development with operations.",
+      "job_responsibility": "Build and maintain CI/CD pipelines, automate cloud deployments, and monitor infrastructure.",
+      "educational_requirements": "Bachelor's degree in DevOps or IT-related fields.",
+      "experiences": "3-4 years in DevOps engineering.",
+      "contact_information": {
+        "phone": "01750-00 00 06",
+        "email": "contact6@gmail.com",
+        "address": "Sonadanga, Khulna, Bangladesh"
+      }
+    },
+    {
+      "id": 7,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tesla_logo.png/1200px-Tesla_logo.png",
+      "job_title": "IT Support Specialist",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "70k-100k",
+      "job_description": "Provide technical support and troubleshooting for internal systems and users.",
+      "job_responsibility": "Resolve hardware, software, and network-related issues promptly.",
+      "educational_requirements": "Bachelor's degree in Information Technology or related field.",
+      "experiences": "1-2 years in IT support.",
+      "contact_information": {
+        "phone": "01750-00 00 07",
+        "email": "contact7@gmail.com",
+        "address": "Banani, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 8,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png",
+      "job_title": "Security Analyst",
+      "company_name": "Microsoft",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "130k-180k",
+      "job_description": "Analyze and protect the company’s digital assets from security threats and vulnerabilities.",
+      "job_responsibility": "Conduct risk assessments and respond to security breaches.",
+      "educational_requirements": "Bachelor's degree in Cybersecurity or related field.",
+      "experiences": "3-5 years in cybersecurity.",
+      "contact_information": {
+        "phone": "01750-00 00 08",
+        "email": "contact8@gmail.com",
+        "address": "Uttara, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 9,
+      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "job_title": "Full Stack Developer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Onsite",
+      "location": "Chittagong, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "140k-190k",
+      "job_description": "Design and develop both front-end and back-end components for web applications.",
+      "job_responsibility": "Develop scalable web solutions using modern technologies.",
+      "educational_requirements": "Bachelor's degree in Computer Science or Software Engineering.",
+      "experiences": "3-4 years in full stack development.",
+      "contact_information": {
+        "phone": "01750-00 00 09",
+        "email": "contact9@gmail.com",
+        "address": "Halishahar, Chittagong, Bangladesh"
+      }
+    },
+    {
+      "id": 10,
+      "logo": "https://images.ctfassets.net/y2ske730sjqp/6bhPChRFLRxc17sR8jgKbe/6fa1c6e6f37acdc97ff635cf16ba6fb3/Logos-Readability-Netflix-logo.png",
+      "job_title": "Systems Engineer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Remote",
+      "location": "Sylhet, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "100k-150k",
+      "job_description": "Design and implement system solutions, manage system performance and troubleshoot issues.",
+      "job_responsibility": "Develop and implement system architecture for various projects.",
+      "educational_requirements": "Bachelor's degree in Systems Engineering or a related field.",
+      "experiences": "2-3 years in systems engineering.",
+      "contact_information": {
+        "phone": "01750-00 00 10",
+        "email": "contact10@gmail.com",
+        "address": "Amborkhana, Sylhet, Bangladesh"
+      }
+    },
+    {
+      "id": 11,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tesla_logo.png/1200px-Tesla_logo.png",
+      "job_title": "Mobile Application Developer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "110k-160k",
+      "job_description": "Develop and maintain mobile applications for Android and iOS platforms.",
+      "job_responsibility": "Design user-friendly mobile applications and ensure optimal performance.",
+      "educational_requirements": "Bachelor's degree in Mobile Development or Software Engineering.",
+      "experiences": "2-4 years in mobile development.",
+      "contact_information": {
+        "phone": "01750-00 00 11",
+        "email": "contact11@gmail.com",
+        "address": "Mohammadpur, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 12,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png",
+      "job_title": "Project Manager",
+      "company_name": "Microsoft",
+      "remote_or_onsite": "Onsite",
+      "location": "Rajshahi, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "150k-200k",
+      "job_description": "Lead software projects from concept to completion, ensuring timelines and budgets are met.",
+      "job_responsibility": "Coordinate teams, manage risks, and communicate project progress.",
+      "educational_requirements": "Bachelor's degree in Project Management or related field.",
+      "experiences": "5-6 years in project management.",
+      "contact_information": {
+        "phone": "01750-00 00 12",
+        "email": "contact12@gmail.com",
+        "address": "Nawdapara, Rajshahi, Bangladesh"
+      }
+    },
+    {
+      "id": 13,
+      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "job_title": "Business Analyst",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "Khulna, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "120k-170k",
+      "job_description": "Analyze business processes and provide recommendations for improving efficiency.",
+      "job_responsibility": "Gather requirements, create business models, and support project execution.",
+      "educational_requirements": "Bachelor's degree in Business Administration or related field.",
+      "experiences": "2-3 years in business analysis.",
+      "contact_information": {
+        "phone": "01750-00 00 13",
+        "email": "contact13@gmail.com",
+        "address": "Daulatpur, Khulna, Bangladesh"
+      }
+    },
+    {
+      "id": 14,
+      "logo": "https://images.ctfassets.net/y2ske730sjqp/6bhPChRFLRxc17sR8jgKbe/6fa1c6e6f37acdc97ff635cf16ba6fb3/Logos-Readability-Netflix-logo.png",
+      "job_title": "UX/UI Designer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "100k-150k",
+      "job_description": "Create user-friendly interfaces for software products, ensuring an intuitive user experience.",
+      "job_responsibility": "Design wireframes, prototypes, and high-fidelity UI designs.",
+      "educational_requirements": "Bachelor's degree in Design or HCI.",
+      "experiences": "2-3 years in UX/UI design.",
+      "contact_information": {
+        "phone": "01750-00 00 14",
+        "email": "contact14@gmail.com",
+        "address": "Dhanmondi 32, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 15,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tesla_logo.png/1200px-Tesla_logo.png",
+      "job_title": "AI Engineer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Chittagong, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "180k-250k",
+      "job_description": "Develop and implement AI models and algorithms to solve complex problems.",
+      "job_responsibility": "Work on AI research, prototype development, and machine learning implementation.",
+      "educational_requirements": "Bachelor's or Master's degree in Artificial Intelligence or related field.",
+      "experiences": "3-5 years in AI development.",
+      "contact_information": {
+        "phone": "01750-00 00 15",
+        "email": "contact15@gmail.com",
+        "address": "Agrabad, Chittagong, Bangladesh"
+      }
+    },
+    {
+      "id": 16,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png",
+      "job_title": "Blockchain Developer",
+      "company_name": "Microsoft",
+      "remote_or_onsite": "Remote",
+      "location": "Sylhet, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "170k-220k",
+      "job_description": "Develop blockchain-based applications, ensuring secure and transparent systems.",
+      "job_responsibility": "Design blockchain architecture and develop smart contracts.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "2-4 years in blockchain development.",
+      "contact_information": {
+        "phone": "01750-00 00 16",
+        "email": "contact16@gmail.com",
+        "address": "Naiorpul, Sylhet, Bangladesh"
+      }
+    },
+    {
+      "id": 17,
+      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "job_title": "Machine Learning Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "160k-210k",
+      "job_description": "Build and deploy machine learning models to enhance software applications.",
+      "job_responsibility": "Research, train, and fine-tune machine learning models.",
+      "educational_requirements": "Bachelor's degree in Data Science or Machine Learning.",
+      "experiences": "3-5 years in machine learning.",
+      "contact_information": {
+        "phone": "01750-00 00 17",
+        "email": "contact17@gmail.com",
+        "address": "Gulshan, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 18,
+      "logo": "https://images.ctfassets.net/y2ske730sjqp/6bhPChRFLRxc17sR8jgKbe/6fa1c6e6f37acdc97ff635cf16ba6fb3/Logos-Readability-Netflix-logo.png",
+      "job_title": "Quality Assurance Engineer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Remote",
+      "location": "Khulna, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "90k-130k",
+      "job_description": "Test and validate software applications to ensure quality and functionality.",
+      "job_responsibility": "Create test cases, perform automated and manual testing, and document results.",
+      "educational_requirements": "Bachelor's degree in Software Engineering or QA.",
+      "experiences": "2-3 years in software testing.",
+      "contact_information": {
+        "phone": "01750-00 00 18",
+        "email": "contact18@gmail.com",
+        "address": "Rupsha, Khulna, Bangladesh"
+      }
+    },
+    {
+      "id": 19,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tesla_logo.png/1200px-Tesla_logo.png",
+      "job_title": "Cybersecurity Engineer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "140k-200k",
+      "job_description": "Develop security protocols to protect company data and systems from cyber threats.",
+      "job_responsibility": "Conduct security audits, implement firewalls, and respond to security incidents.",
+      "educational_requirements": "Bachelor's degree in Cybersecurity or related field.",
+      "experiences": "3-4 years in cybersecurity.",
+      "contact_information": {
+        "phone": "01750-00 00 19",
+        "email": "contact19@gmail.com",
+        "address": "Bashundhara, Dhaka, Bangladesh"
+      }
+    },
+    {
+      "id": 20,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png",
+      "job_title": "Frontend Developer",
+      "company_name": "Microsoft",
+      "remote_or_onsite": "Remote",
+      "location": "Rajshahi, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "120k-170k",
+      "job_description": "Develop user-facing features using modern web technologies.",
+      "job_responsibility": "Write clean, maintainable code for web applications.",
+      "educational_requirements": "Bachelor's degree in Web Development or Software Engineering.",
+      "experiences": "2-3 years in frontend development.",
+      "contact_information": {
+        "phone": "01750-00 00 20",
+        "email": "contact20@gmail.com",
+        "address": "Boalia, Rajshahi, Bangladesh"
+      }
+    }
+  ]
+  
